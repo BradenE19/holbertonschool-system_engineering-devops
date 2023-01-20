@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Best School, bad luck, good luck
 i=0
 while [ $i -lt 9 ]
 do
